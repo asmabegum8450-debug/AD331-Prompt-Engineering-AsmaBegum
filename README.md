@@ -101,9 +101,6 @@ A video accompanies this assignment and includes:
 - Final optimized prompt  
 - Comparison and explanation of why each technique improved the results  
 
-The video shows both **my face** and **my screen** as required.
-
-*(A YouTube link will be submitted on Canvas.)*
 
 ---
 ## End of README
