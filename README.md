@@ -87,6 +87,39 @@ All prompt texts and outputs are documented in the notebook:
 
 ---
 
+---
+
+## Video Demonstration 
+
+A video accompanies this assignment and includes:
+
+- Introduction to the task  
+- Baseline prompt and its poor performance  
+- Technique 1: Role Prompting  
+- Technique 2: JSON Formatting  
+- Technique 3: Chain-of-Thought  
+- Final optimized prompt  
+- Comparison and explanation of why each technique improved the results  
+
+The video shows both **my face** and **my screen** as required.
+
+*(A YouTube link will be submitted on Canvas.)*
+
+---
+## End of README
+
+All components required by the assignment are included:
+- Baseline prompt  
+- Three advanced prompt engineering techniques  
+- Final optimized prompt  
+- Qualitative evaluation  
+- Summary table  
+- Notebook  
+- README  
+- Video demonstration  
+
+
+
 ## Repository Contents
 
 
